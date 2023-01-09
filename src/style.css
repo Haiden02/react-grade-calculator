@@ -1,0 +1,12 @@
+body, html, #root {
+    margin: 0;
+    height: 100%;
+    background: #282a36;
+}
+
+.bar {
+    width: 200px;
+    height: 25px;
+    background: #8be9fd;
+    border-radius: 1.5em;
+}
