@@ -1,1 +1,1 @@
-# react-grade-calculator
+# react grade calculator
